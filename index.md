@@ -19,13 +19,19 @@ version: "01/04/25"
 
 ## Guías de aprendizaje
 
-[1. Etapas de la vida (Visto con Alfredo)](01_vida_etapas.html)
+- [1. Etapas de la vida (Visto con Alfredo)](01_vida_etapas.html)
 
-[2. Pensando en mi futuro (Alternancia 1)](02_mi_futuro.html)
+- [2. Pensando en mi futuro (Alternancia 1)](02_mi_futuro.html)
 
-[3. La Felicidad](03_felicidad_ted.html)
+- [3. La Felicidad](03_felicidad_ted.html)
 
-[4. La salud (Alternancia 2)](04_salud.html)
+- [4. La salud (Alternancia 2)](04_salud.html)
+
+- [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
+
+- [6. Sistema sanitario argentino en mi comunidad](06_sistema_salud.html) (Alternancia 3)
+
+- [7. Historia y objetivos de la salud pública](07_historia_salud.html)
 
 
 <span hidden>Fin archivo</span>
