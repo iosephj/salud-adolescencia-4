@@ -29,11 +29,11 @@ version: "01/04/25"
 
 - [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
 
-- [6. Sistema sanitario argentino en mi comunidad](06_sistema_salud.html) (Alternancia 3)
+- [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
 
 - [7. Historia y objetivos de la salud pública](07_historia_salud.html)
 
-- [8. Prevención de la salud](08_prevencion.html)
+- [8. Prevención de la salud (Alternancia 4)](08_prevencion.html)
 
 
 <span hidden>Fin archivo</span>
