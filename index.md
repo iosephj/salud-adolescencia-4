@@ -33,10 +33,17 @@ version: "01/04/25"
 
 - [7. Historia y objetivos de la salud pública](07_historia_salud.html)
 
+- [8. Prevención de la salud](08_prevencion.html)
+
 
 <span hidden>Fin archivo</span>
 
-</div>
+<br>
+
+---
+
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
+
 <!-- HTML style definitions -->
 <style>
 /* Colors */
