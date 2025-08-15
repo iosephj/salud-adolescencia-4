@@ -1,7 +1,7 @@
 ---
-title: "Formación religiosa"
+title: "Salud y Adolescencia (4to año)"
 autor: "José Juarez"
-version: "21/05/25"
+version: "01/04/25"
 ---
 
 <span hidden>Local path of the file: "H:/"</span>
@@ -18,8 +18,10 @@ version: "21/05/25"
 
 **Criterios de aprobación**
 
-- **Cuatrimestre 1:** Tener **A** en al menos 3 de las primeras 5 guías
-- **Cuatrimestre 2 (Desde Guía 6 en adelante):** 
+- **Bimestre 1:** Tener **A** en Guía 2 (Alt. 1) y Guía 4 (Alt. 2)
+- **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
+- **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+
 </div>
 
 </div>
@@ -28,19 +30,26 @@ version: "21/05/25"
 
 ## Guías de aprendizaje
 
-- [1. Sobre la vida de Jesús (Alternancia 1)]() (Visto con Alfredo, no hay guía de esto)
+- [1. Etapas de la vida (Visto con Alfredo)](01_vida_etapas.html)
 
-- [2. Felicidad y religión (Parte en Alternancia 2)](01_felicidad_religion.html)
+- [2. Pensando en mi futuro (Alternancia 1)](02_mi_futuro.html)
 
-- [3. La existencia de Dios](02_existencia_dios.html)
+- [3. La Felicidad](03_felicidad_ted.html)
 
-- [4. Sobre el alma (Alternancia 3)](03_el_alma.html)
+- [4. La salud (Alternancia 2)](04_salud.html)
 
-- [5. Busca la verdad, desarrolla un tema libre](04_tema_libre1.html)
+- [5. Derechos y obligaciones relacionados con la salud](05_salud_derecho.html)
 
-- [6. La creación (Alternancia 4)](05_creacion.html)
+- [6. Sistema sanitario argentino en mi comunidad (Alternancia 3)](06_sistema_salud.html)
 
-- [7. La creación y la existencia del mal (Alternancia 5)](06_creacion_2.html)
+- [7. Historia y objetivos de la salud pública](07_historia_salud.html)
+
+- [8. Prevención de la salud (Alternancia 4)](08_prevencion.html)
+
+- [9. Nutrición y adolescencia (Alternancia 5)](09_nutricion.html)
+
+
+- [10. Estudio de caso sobre nutrición](10_nutricion_caso.html)
 
 
 <span hidden>Fin archivo</span>
@@ -49,7 +58,7 @@ version: "21/05/25"
 
 ---
 
-**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_relig6_25) poniendo como clave `progreso2025` y luego tu número de lista.
+**Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
 
 <!-- HTML style definitions -->
 <style>
