@@ -48,8 +48,7 @@ version: "01/04/25"
 
 - [9. Nutrición y adolescencia (Alternancia 5)](09_nutricion.html)
 
-
-- [10. Estudio de caso sobre nutrición](10_nutricion_caso.html)
+- [10. Salud_mental](10_salud_mental.html)
 
 
 <span hidden>Fin archivo</span>
