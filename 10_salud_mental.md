@@ -37,7 +37,15 @@ Hay varios temas importantes en salud mental. Aquí veremos algunos que se puede
 
 <br><br>
 
+
 ## Actividad 1
+
+Elige uno de los textos del punto anterior, el que más te haya servido, y haz un resumen de no más de 5 renglones.
+
+
+<br><br>
+
+## Actividad 2
 
 Copia y completa el siguiente texto con las palabras faltantes. En cada lugar solo puede ir una sola palabra. 
 
