@@ -101,12 +101,29 @@ La malnutrición es un ______ en la alimentación, que puede deberse tanto a ___
 
 <div hidden>
 La malnutrición es un ___desequilibrio___ en la alimentación, que puede deberse tanto a ___deficiencias___ como a excesos de nutrientes. La desnutrición es una forma grave de malnutrición por falta de nutrientes ___esenciales___, y puede afectar seriamente la salud. En cambio, la ___obesidad___ implica un exceso de ___grasa___ corporal, aumentando el riesgo de enfermedades como diabetes y problemas cardiovasculares. En los adolescentes, la obesidad se relaciona con malos ___hábitos___ alimenticios y sedentarismo.
+
+- desequilibrio
+- deficiencias
+- esenciales
+- grasa
+- obesidad
+- hábitos
+
 </div>
 
 
+<br><br>
+
+
+## Actividad 4 
  
+Se trata de análizar el caso "El equipo de Sofía" que puedes ver [aquí](09_nutricion_caso.html).
+
 
 <div hidden>
+
+Esto quedó pendiente
+
 ### **4. Trastornos de la Conducta Alimentaria**
 
 Los trastornos alimentarios son enfermedades graves que afectan los hábitos de comida y el comportamiento de las personas. Pueden tener consecuencias físicas y emocionales significativas, especialmente durante la adolescencia.
