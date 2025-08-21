@@ -17,7 +17,7 @@ Es el equilibrio entre pensamientos, emociones y conductas que nos permite vivir
 
 <span hidden>Image</span>
    <center>![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6YgMTrgcv8dsg54-EdduTy1Ra7e9ocabF5Oph1CICS4LFZKvxbURWI-Hw_VoFvI_YaLv3NY7e7UFxxu4-SxT7xCrcVTuxBvbNQwDZIRJBUwYb_gkTMDPgIwRZzL9YQQJrKpXBCFw0H_M/s1600/Una+filosof%25C3%25ADa+sobre+el+estado+de+equilibrio+relato+12+en+medio+de+la+pandemia-1.jpg){width=400px}</center>
-   <center><span class="grey3 size70">"Equilibrio es la palabra clave. Fuente: soybibliotecario.blogspot.com</span></center>
+   <center><span class="grey3 size70">"Equilibrio" es la palabra clave en salud mental. Fuente: soybibliotecario.blogspot.com</span></center>
 
 La adolescencia es una etapa de grandes cambios físicos, emocionales y sociales. Es un momento de búsqueda de identidad, de pertenencia al grupo, de mayor independencia y, al mismo tiempo, de necesidad de contención. La salud mental en esta etapa es tan importante como la salud física.
 
@@ -47,20 +47,39 @@ Elige uno de los textos del punto anterior, el que más te haya servido, y haz u
 
 ## Actividad 2
 
-Copia y completa el siguiente texto con las palabras faltantes. En cada lugar solo puede ir una sola palabra. 
-
-Si no pudiste realizar la tarea anterior en grupos deberás leer los textos del punto anterior para poder esta actividad: 
+Repasa los textos de "Temas centrales (parte I)" y luego **copia** y **completa** el siguiente texto con las palabras faltantes. En cada lugar solo puede ir una sola palabra. 
 
 El ______ es la respuesta del cuerpo y la mente ante situaciones que percibimos como desafiantes o amenazantes. Puede ser ______ (cuando nos motiva) o ______ (cuando nos supera).
 La ______ no es “estar triste” solamente. Es un trastorno que afecta pensamientos, emociones y conductas. Los ______ son: tristeza persistente, pérdida de interés, cambios en el sueño y apetito, sentimientos de inutilidad. Requiere atención y acompañamiento. El ______ libre es necesario para descansar, disfrutar y expresarse. Hay que usarlo bien sabiendo que actividades creativas, deportivas y solidarias ayudan a la salud mental.
 La ______ puede ser ______, verbal, psicológica. Genera inseguridad, miedo y afecta el bienestar. Es importante reconocerla y buscar ayuda.
 
-
 <div hidden>
 El ___estrés___ es la respuesta del cuerpo y la mente ante situaciones que percibimos como desafiantes o amenazantes. Puede ser ___positivo___ (cuando nos motiva) o ___negativo___ (cuando nos supera).
 La ___depresión___ no es “estar triste” solamente. Es un trastorno que afecta pensamientos, emociones y conductas. Los ___síntomas___ son: tristeza persistente, pérdida de interés, cambios en el sueño y apetito, sentimientos de inutilidad. Requiere atención y acompañamiento. El ___tiempo___ libre es necesario para descansar, disfrutar y expresarse. Hay que usarlo bien sabiendo que actividades creativas, deportivas y solidarias ayudan a la salud mental.
 La ___violencia___ puede ser ___física___, verbal, psicológica. Genera inseguridad, miedo y afecta el bienestar. Es importante reconocerla y buscar ayuda.
-<div>
+</div>
+
+
+<br><br>
+
+
+## Temas centrales (parte 2)
+
+Otros temas centrales relacionados con la salud mental son: 
+
+- **a)** El gran tema de aceptarse a sí mismo.
+- **b)** El apoyo que es para cualquier problema la familia en primer lugar, y luego los amigos y la escuela.
+- **c)** Los factores de riesgo que hay que evitar: consumo de sustancias, aislamiento, violencia familiar, presión social.
+- **d)** Prevención de pensamientos de hacerse daño a sí mismo, al cuerpo, a la propia vida. Pueden aparecer especialmente en situaciones de depresión, angustia intensa o problemas emocionales. Aquí reconocer los indicios es clave: cambios bruscos de conducta, aislamiento, tristeza prolongada o expresiones de desesperanza. Frente a estas señales, pedir ayuda a adultos de confianza o profesionales de la salud es fundamental y puede marcar la diferencia.
+
+
+<br><br>
+
+
+## Actividad 3
+
+Desarrolla en unos 10 renglones algún factor de riesgo que tu elijas. Debe contener, cualquier sea el tema, estas palabras o frases: "salud mental", "factor", "aislarse", "equilibrio". "emocional".
+
 
 
 <div hidden>
