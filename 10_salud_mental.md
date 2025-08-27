@@ -81,6 +81,26 @@ Otros temas centrales relacionados con la salud mental son:
 Desarrolla en unos 10 renglones algún factor de riesgo que tu elijas. Debe contener, cualquier sea el tema, estas palabras o frases: "salud mental", "factor", "aislarse", "equilibrio". "emocional".
 
 
+<br><br>
+
+
+## Actividad 4
+
+Algo que da paz y salud (también mental) es la aceptación de sí mismo. Consiste en aceptar lo que nos ha tocado en la vida, aquellas limitaciones que no elegimos pero también ver y valorar las cosas buenas que tenemos. Aceptarse a sí mismo no significa decir "yo soy asi" y no hacer nada por mejorar. Significa dar lo mejor de nosotros y superarnos pero sin ansiedad mala o enfermisa.
+
+Mira ese [cortometraje](https://www.youtube.com/watch?v=CkdI1F5xxtE) que muestra cómo el reconocimiento, la aceptación y el acompañamiento pueden transformar la vida de una persona.
+
+Para aprobar esta guía deberás reflexionar sobre este video ayudado por las preguntas de abajo y exponerlo oralmente al profesor. Si quieres puedes escribir las respuestas para acordarte y repasarlo pero lo decisivo es la conversación.
+
+**Preguntas para la reflexión:**
+
+1. ¿Qué sentimientos te despertó la historia?
+2. ¿Qué rol cumplen los demás en el proceso de aceptación de uno mismo?
+3. ¿Por qué es importante que alguien crea en nosotros?
+4. ¿Qué relación encontrás entre la historia y los temas de salud mental en la adolescencia?
+
+**"Entregar como tarea de alternancia todas las actividades, incluida la 4"**
+
 
 <div hidden>
 
@@ -133,17 +153,6 @@ Desarrolla en unos 10 renglones algún factor de riesgo que tu elijas. Debe cont
 * Reconocer las propias fortalezas y debilidades es parte de crecer.
 
 ---
-
-### 3. Disparador: *El circo de las mariposas* 🦋
-
-Este cortometraje muestra cómo el reconocimiento, la aceptación y el acompañamiento pueden transformar la vida de una persona.
-
-**Preguntas para la reflexión:**
-
-1. ¿Qué sentimientos te despertó la historia?
-2. ¿Qué rol cumplen los demás en el proceso de aceptación de uno mismo?
-3. ¿Por qué es importante que alguien crea en nosotros?
-4. ¿Qué relación encontrás entre la historia y los temas de salud mental en la adolescencia?
 
 ---
 
