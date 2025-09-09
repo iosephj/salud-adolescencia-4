@@ -102,6 +102,56 @@ Para aprobar esta guía deberás reflexionar sobre este video ayudado por las pr
 **"Entregar como tarea de alternancia todas las actividades, incluida la 4"**
 
 
+<br><br>
+
+
+## Actividad 5: Análisis de un caso
+
+(Desarrollada en el aula)
+
+Tomás tiene 16 años y está en 4º año de la secundaria. Siempre fue buen estudiante, pero este año nota que le cuesta más concentrarse.
+
+Su rutina normal es:
+
+* **Mañana**: se levanta a las 6:30 para ir a la escuela. A veces desayuna, a veces no porque prefiere dormir "cinco minutos más".
+* **Tarde**: tres veces por semana entrena en el club de fútbol hasta las 20:30. Los otros días se junta con amigos o hace tareas.
+* **Noche**: cena con su familia, pero después suele quedarse en la compu o el celular. A veces estudia tarde, otras juega en línea o se queda en redes sociales. Se acuesta alrededor de la 1:30–2:00 a.m.
+* **Fines de semana**: duerme hasta el mediodía. Si juega al fútbol temprano, le cuesta rendir.
+
+Últimamente:
+
+* Llega muy cansado a la escuela y se queda dormido en clase.
+* Sus entrenadores le dicen que bajó el rendimiento.
+* Está más irritable con sus amigos y familia.
+* Para no dormirse cuando estudia, toma bebidas energizantes.
+* Siente que "no tiene tiempo para nada" y se frustra.
+
+**Contestar:**
+
+1. **Detectar hábitos**:
+
+   * ¿Qué cosas hace Tomás que perjudican su sueño?
+   * ¿Qué otras responsabilidades/actividades le generan presión de tiempo?
+
+2. **Consecuencias**:
+
+   * ¿Qué problemas ya está teniendo?
+   * ¿Qué consecuencias a largo plazo podría sufrir si no cambia nada?
+
+3. **Perspectivas múltiples**:
+
+   * Si fueras su entrenador, ¿qué le recomendarías?
+   * Si fueras su mejor amigo, ¿qué consejo le darías?
+   * Si fueras su profesor, ¿cómo podrías ayudarlo?
+   * Si fueras Tomás, ¿qué priorizarías: dormir más, entrenar, salir con amigos, estudiar…? ¿Por qué?
+
+4. **Propuestas**:
+
+   * Diseñen **al menos 3 alternativas posibles** para mejorar la situación de Tomás.
+   * Analicen pros y contras de cada alternativa.
+
+
+
 <div hidden>
 
 #### a) Estrés
