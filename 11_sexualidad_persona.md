@@ -90,6 +90,25 @@ Prepara una exposición oral explicando las actividades 1, 2 y 4. En tu explicac
 
 
 
+## Teoría de género
+
+Esta teoría sostiene que el **género** es una **construcción social** independiente del **sexo biológico**.
+Quienes la defienden afirman que el género no depende del cuerpo, sino de **factores sociales, culturales y personales**.
+
+Según esta postura, **cada persona construye su identidad de género** a partir de cómo se percibe a sí misma y de cómo la sociedad influye en esa percepción, no solo de si nació varón o mujer.
+
+Desde el **punto de vista científico**, la teoría de género **no se apoya en pruebas biológicas**, sino en **estudios sociales y psicológicos**.
+Hasta el momento, **no existen evidencias científicas** que demuestren que el género sea completamente independiente del sexo biológico.
+
+
+<br><br>
+
+
+## Actividad 6
+
+Busca información sobre "qué consenso cienífico tiene esta teoría" y escribe un resumen. Pon la fuente de donde sacaste la información.
+
+
 <!-- *** GUIDE END *** -->
 
 
