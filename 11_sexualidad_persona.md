@@ -78,6 +78,17 @@ Busca información sobre Evan Lemoine y escribe brevemente, quien es, de donde v
 **3.** ¿Es malo o bueno el placer para Evan? ¿Por qué?
 
 
+<br><br>
+
+
+## Actividad 5
+
+Prepara una exposición oral explicando las actividades 1, 2 y 4. En tu explicación deben aparecer la frase: "deshumanizar la sexualidad", "considerar al otro una cosa y no una persona", "el sexo no trae felicidad cuando...". Si quieres puedes hacerte un resumen escrito pero lo fundamental es saber eplicarlo oralmente.
+
+
+<br><br>
+
+
 
 <!-- *** GUIDE END *** -->
 
