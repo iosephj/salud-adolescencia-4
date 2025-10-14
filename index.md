@@ -18,9 +18,14 @@ version: "01/04/25"
 
 **Criterios de aprobación**
 
-- **Bimestre 1:** Tener **A** en Guía 2 (Alt. 1) y Guía 4 (Alt. 2)
-- **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
 - **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
+   + **Bimestre 1:** Tener **A** en Guía 2 (Alt. 1) y Guía 4 (Alt. 2)
+   + **Bimestre 2:** Tener **A** en Guía 6 (Alt. 3), Guía 7, Guía 8 (Alt. 4)
+
+
+- **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
+   + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
+
 
 </div>
 
@@ -51,6 +56,8 @@ version: "01/04/25"
 - [10. Salud_mental](10_salud_mental.html)
 
 - [11. Sexualidad y persona](11_sexualidad_persona.html)
+
+- [12. Escuela, comunidad, salud](12_escuela_comunidad.html)
 
 
 <span hidden>Fin archivo</span>
