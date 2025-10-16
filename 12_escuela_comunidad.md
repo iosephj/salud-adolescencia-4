@@ -41,7 +41,80 @@ Reflexiona y escribe un resumen de unos 5 renglones sobre como aporta a la salud
 Reflexiona y escribe un resumen de unos 5 renglones sobre puntos negativos que observas en la escuela en general y que hacen que disminuya su aporte a la salud de los jóvenes. Escribe como los mejorarías. Realiza esto pensando en la situación de las escuelas que te rodean y no solo en la que tú vas.
 
 
+<br><br>
 
+
+## Actividad 3
+
+Prepara una exposición oral que dure más de un minuto pero menos de dos explicando lo que reflexionaste en las actividades 1 y 2. Cuando estés listo lo hablas con el profesor poniendo un cronómetro para controlar el tiempo. Esta práctica te ayudará a expresarte con más claridad y precisión y se requiere que esté hecha para aprobar esta guía.
+
+
+<br><br>
+
+
+## Las redes sociales y la salud
+
+Hoy casi todos usamos redes sociales como Instagram, TikTok, YouTube o WhatsApp. Son parte de la vida diaria y pueden tener cosas **buenas y malas** para nuestra salud.
+
+<br>
+
+### Lo bueno
+
+* Nos ayudan a **mantener el contacto** con amigos y familiares.
+* Permiten **expresarnos**, compartir ideas o mostrar lo que nos gusta.
+* Podemos **aprender cosas nuevas** y encontrar apoyo en personas con intereses parecidos.
+
+<br>
+
+### Lo no tan bueno
+
+* Pasar **demasiado tiempo conectado** puede aumentar la **ansiedad y la tristeza**.
+* Las comparaciones constantes (“todos parecen más felices o más lindos”) pueden bajar la **autoestima**.
+* El **ciberacoso** o los comentarios negativos también afectan mucho.
+* Usar el celular hasta tarde hace que **durmamos peor** y estemos más cansados.
+* Al estar mucho tiempo frente a la pantalla, nos **movemos menos** y eso también influye en la salud.
+
+<br>
+
+### En resumen
+
+Las redes sociales **no son malas por sí solas**, pero hay que **usarlas con equilibrio**:
+
+* Evitá compararte con otros.
+* No creas todo lo que ves.
+* Tratá de no usarlas antes de dormir.
+* Buscá actividades fuera de la pantalla: deporte, música, amigos reales.
+
+
+<br><br>
+
+
+## Actividad 4
+
+En base al punto anterior sobre las redes sociales escribe y completa el texto de bajo poniendo las palabras que faltan. En cada lugar hay que poner una sola palabra.
+
+*Las redes sociales son ______ del día a día de la mayoría de los adolescentes. Sirven para ______ con amigos y familia, mostrar lo que pensamos y descubrir cosas nuevas. Pero cuando se usan demasiado pueden tener ______ negativas. Estar muchas horas conectado puede ______ la ansiedad, la tristeza y la sensación de estar solo. Compararse con otras ______ en internet también puede bajar la autoestima y hacer que uno se sienta inseguro. Además, usar el celular hasta tarde puede causar falta de ______, cansancio y dificultades para concentrarse.*
+
+<div hidden>
+
+*Las redes sociales son ___parte___ del día a día de la mayoría de los adolescentes. Sirven para ___comunicarse___ con amigos y familia, mostrar lo que pensamos y descubrir cosas nuevas. Pero cuando se usan demasiado pueden tener ___consecuencias___ negativas. Estar muchas horas conectado puede ___aumentar___ la ansiedad, la tristeza y la sensación de estar solo. Compararse con otras ___personas___ en internet también puede bajar la autoestima y hacer que uno se sienta inseguro. Además, usar el celular hasta tarde puede causar falta de ___sueño___, cansancio y dificultades para concentrarse.*
+
+</div>
+
+
+<br><br>
+
+
+## Actividad 5: Prepárate para hacer un aporte
+
+Volvamos al tema de la escuela y la comunidad (barrio) que te rodea. Puedes hacer un aporte a la salud física de las personas que te rodean aprendiendo cosas como:
+
+- primeros auxilios,
+- RCP,
+- la maniobra de Heimlich,
+- cómo actuar ante una emergencia o cómo pedir ayuda correctamente
+
+Elige uno de estos aspectos e investiga cómo se realiza correctamente, cuándo se debe aplicar y por qué es importante. Luego, prepara un **resumen breve** con los pasos principales y un ejemplo de **cómo podrías usar ese conocimiento en tu escuela o barrio**.
 
 
 <!-- *** GUIDE END *** -->
