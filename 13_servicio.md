@@ -40,6 +40,20 @@ El "servir" está intimamente ligado a la "alegría" y a "realizarse plenamente"
 **c)** Prepara y escribe una breve explicación oral de la frase de Tagore dando un ejemplo que no se haya dado en clase.
 
 
+<br><br>
+
+
+## Actividad 2
+
+Busca información sobre la escuela técnica N°1 de la Quiaca y sus proyectos de aprendizaje y servicio. Con esa información responde lo siguiente:
+
+**a)** Resumir las características del entorno donde está la escuela: lugar geográfico, contexto socioeconómico, situación sanitaria.
+
+**b)** Elegir uno de los proyectos de servicio y aprendizaje que se hicieron en la escuela y descríbelo brevemente.
+
+
+
+ 
 
 <!-- *** GUIDE END *** -->
 
