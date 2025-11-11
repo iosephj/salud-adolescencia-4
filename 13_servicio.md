@@ -53,8 +53,25 @@ Busca información sobre la escuela técnica N°1 de la Quiaca y sus proyectos d
 
 
 
- 
+<br><br>
 
+
+## Actividad 3: Proyecto
+
+Se trata que cada uno tenga un rol activo en la promoción de la salud que como vimos no tiene que ver solo con el cuerpo, también con lo mental, social, etc.
+
+**a)** Hacer un breve diagnóstico: ¿Qué problema ves a tu alrededor (escuela, casa, barrio, etc)? ¿A quienes afecta? ¿Que podría cambiar o mejorar? Anota al menos tres ideas que se te ocurran sobre esto.
+
+**b)** Piensa modos en que tu puedas involucrarte para mejorar las situaciones que pusiste en el punto **a)**. Puede haber varios modos posibles: participar como voluntario en diversas tareas, organizar una reunión con amigos para transmitir la inquietud y procurar involucrarlos, hacer un donativo, hacer y difundir un video, flyer, volante o folleto, cortar el pasto en un asilo, etc. Las posibilidades son muy amplias pero si no se te ocurre alguna habla con el profesor. Anota al emenos tres ideas que se te hayan ocurrido.
+
+**c)** Elije una posibilidad entre las cosas que anotaste en los puntos anteriores y descríbela con más detalle respondiendo lo siguiente:
+
+- ¿Cuál es el tema elegido?
+- ¿Cuál es el objetivo? ¿Qué quieres lograr?
+- ¿A quién está dirigida?
+- ¿Que acciones concretas se harán?
+
+ 
 <!-- *** GUIDE END *** -->
 
 
