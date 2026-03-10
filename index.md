@@ -10,12 +10,14 @@ version: "01/04/25"
 <br>
 
 <div class="grey3">
-**Año:** 2025
+**Año:** 2026
 
 **Profesor:** José Juarez
 
 <div class="size80">
 
+
+<div class hidden>
 **Criterios de aprobación**
 
 - **Cuatrimestre 1:** Tener **A** en Bimestre 1 y 2
@@ -25,6 +27,7 @@ version: "01/04/25"
 
 - **Cuatrimestre 2:** Tener **A** en Bimestre 3 y 4
    + **Bimestre 3:** Tener **A** en Guía 9 y Guía 10
+</div>
 
 
 </div>
@@ -34,6 +37,11 @@ version: "01/04/25"
 <br>
 
 ## Guías de aprendizaje
+
+
+- [1. Introducción](01_guide_introd_26.html)
+
+<div class hidden>
 
 - [1. Etapas de la vida (Visto con Alfredo)](01_vida_etapas.html)
 
@@ -61,6 +69,8 @@ version: "01/04/25"
 
 - [13. Promotores de la salud. Aprender y servir.](13_servicio.html)
 
+</div>
+
 
 <span hidden>Fin archivo</span>
 
@@ -68,7 +78,9 @@ version: "01/04/25"
 
 ---
 
+<div class hidden>
 **Verifica** tu progreso [aquí](https://iosephj.pythonanywhere.com/notas/cfr_sad4_25) poniendo como clave `progreso2025` y luego tu número de lista.
+</div>
 
 <!-- HTML style definitions -->
 <style>
